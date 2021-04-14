@@ -6,14 +6,28 @@ global.APIs = { // API Prefix
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
 }
+
 global.APIKeys = { // APIKey Here
+
   // 'https://website': 'apikey'
+
   'https://api.xteam.xyz': 'd90a9e986e18778b'
+
+}
+
+}
+
+global.APIKeys = { // APIKey Here
+
+  // 'https://website': 'apikey'
+
+  'https://api.xteam.xyz': '833f655ae5e773e9'
+
 }
 
 // Sticker WM
-global.packname = 'I hope you\'re fine'
-global.author = 'Nurutomo'
+global.packname = 'Semoga Bahagia :)'
+global.author = 'Binaldari'
 
 global.multiplier = 69 // The higher, The harder levelup
 
